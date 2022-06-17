@@ -1,2 +1,4 @@
-Hello world
+Hello world +
 git pull
+Изменили текст
+
